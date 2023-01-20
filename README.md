@@ -7,7 +7,9 @@
 [![Carrd](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://buccini.carrd.co/)
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)](https://br.pinterest.com/Buccini555/)
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdCjUx_uYwTEXpCYc1GZWKg)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/buccini555) <img width=200px src="https://i.pinimg.com/originals/6d/e3/01/6de3013008964bae8ef78c7d44421d35.gif"/>
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/buccini555)
+
+<br><img width=200px src="https://i.pinimg.com/originals/6d/e3/01/6de3013008964bae8ef78c7d44421d35.gif"/>
 
 <div style="display: inline_block"><br/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
