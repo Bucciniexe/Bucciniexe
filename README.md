@@ -15,9 +15,6 @@
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCdCjUx_uYwTEXpCYc1GZWKg)
 [![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/buccini555)
 
-<br><img width=200px src="https://i.pinimg.com/originals/6d/e3/01/6de3013008964bae8ef78c7d44421d35.gif"/><br>
-
-
 
 <div style="display: inline_block"><br/>
   <p>
@@ -46,5 +43,5 @@
 
 ![Buccini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucciniexe&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucciniexe&langs_count=8)](https://github.com/bucciniexe/github-readme-stats)
 
-
+<br><img width=200px src="https://i.pinimg.com/originals/6d/e3/01/6de3013008964bae8ef78c7d44421d35.gif"/><br>
 
