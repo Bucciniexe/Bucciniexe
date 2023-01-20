@@ -3,7 +3,7 @@
 
 ### ▾ About me...
   Hello, what are you doing here?<br>
-My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil, I'm a student of programming (Front-end/Full stack) and Web Design. I tend to do personal and aesthetic/self-organizing projects, portfolio cards and websites, notepad and to-do apps are my specialty and currently I work as a freelancer and sometimes do some internships. **If you want to talk to me, message me**. Thank you for reading!
+My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil, I'm a student of programming (Front-end/Full stack) and Web Design. I tend to do personal and aesthetic/self-organizing projects, portfolio cards and websites, notepad and to-do apps are my specialty and currently I work as a freelancer and sometimes do some internships. **If you want to talk to me, message me**. Thank you for reading! <img width=75px src="https://i.imgur.com/HhoG9OC.gif"/>
 
   
 ### ▸ Find me!
