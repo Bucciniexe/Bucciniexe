@@ -4,7 +4,7 @@
 ### About me...
 <p>
   I'm a student, but specifically Front-end and Web Design. I live in Brazil, I was born in 2005 and my name is Buccini (Actually it's my last name).
-  </p><br>
+  </p>
   
 ### Find me!
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/bucciniexe)
