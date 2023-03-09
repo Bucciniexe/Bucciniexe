@@ -1,12 +1,12 @@
+![a1](https://user-images.githubusercontent.com/123178455/224123674-9d2f991b-67c6-4d77-b558-008da8e4baab.jpg)
 
-### 𝕭 𝐮 𝐜 𝐜 𝐢 𝐧 𝐢
-
-### ▾ About me...
-  Hello, what are you doing here?<br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=25&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Buccini;Be+Welcome!)](https://git.io/typing-svg)
+Hello, what are you doing here?<br>
 My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil, I'm a student of programming (Front-end/Full stack) and Design. I tend to do personal and aesthetic/self-organizing projects, portfolio cards and websites, notepad and to-do apps are my specialty and currently I work as a freelancer and sometimes do some internships. **If you want to talk to me, message me**. Thank you for reading!<br> 
 <br><img width=75px src="https://i.imgur.com/HhoG9OC.gif"/>
 
-  
+![Buccini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucciniexe&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucciniexe&langs_count=8)](https://github.com/bucciniexe/github-readme-stats)
+
 ### ▸ Find me!
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/bucciniexe)
 [![Website](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://kingbuccini.netlify.app/)
@@ -32,12 +32,8 @@ My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in
 
 ### ▸ Others
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/buccini555)
-<div style="display: inline_block">
- <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
-</div><br>
 
-![Buccini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucciniexe&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucciniexe&langs_count=8)](https://github.com/bucciniexe/github-readme-stats)
+
 
 **⚠ See my Tokyo Revengers memory game! *(has some bugs, but ignore)*** [Tokyo Revengers Memory Game](https://tokyorevengersmemorygame.netlify.app/)<br> 
 <br><img width=250px src="https://i.pinimg.com/originals/58/b5/b4/58b5b45fe80f4e54f7fb876fa19d12f4.gif"/><br>
-
