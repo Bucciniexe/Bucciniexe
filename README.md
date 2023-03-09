@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=25&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Buccini;Be+Welcome!)](https://git.io/typing-svg)
 Hello, what are you doing here?<br>
-My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil, I'm a student and Design. I tend to do personal and aesthetic/self-organizing projects, portfolio cards and websites, notepad and to-do apps are my specialty and currently I work as a freelancer and sometimes do some internships. 
+My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil, I'm a student and Design. I tend to do personal and aesthetic/self-organizing projects, portfolio cards and websites, notepad and to-do apps are my specialty and currently I work as a freelancer and sometimes do some internships.<br> 
 <br><img width=75px src="https://i.imgur.com/HhoG9OC.gif"/>
 
 ![Buccini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucciniexe&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucciniexe&langs_count=8)](https://github.com/bucciniexe/github-readme-stats)
