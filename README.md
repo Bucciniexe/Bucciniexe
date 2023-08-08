@@ -1,9 +1,4 @@
-![a1](https://user-images.githubusercontent.com/123178455/224123674-9d2f991b-67c6-4d77-b558-008da8e4baab.jpg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=000000&size=25&center=true&vCenter=true&width=1000&lines=Hi!+My+name+is+Buccini;Be+Welcome!)](https://git.io/typing-svg)
-Hello, what are you doing here?<br>
-My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in Brazil and I'm a student and Design.<br> 
-<br><img width=75px src="https://i.imgur.com/HhoG9OC.gif"/>
+## Under Construction
 
 ![Buccini's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucciniexe&show_icons=true&theme=transparent) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bucciniexe&langs_count=8)](https://github.com/bucciniexe/github-readme-stats)
 
@@ -22,8 +17,8 @@ My name is Buccini *(Actually it's my last name)*, I was born in 2005, I live in
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>  </div><br>
 
 
-**⚠ See my Tokyo Revengers memory game! *(has some bugs, but ignore)*** [Tokyo Revengers Memory Game](https://tokyorevengersmemorygame.netlify.app/)<br> 
-<br><img width=250px src="https://i.pinimg.com/originals/58/b5/b4/58b5b45fe80f4e54f7fb876fa19d12f4.gif"/><br>
+### See my Tokyo Revengers memory game... ***(has some bugs, but ignore)*** [Tokyo Revengers Memory Game](https://tokyorevengersmemorygame.netlify.app/)<br> 
+
 
 ### ▸ Find me!
 [![Tumblr](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)](https://www.tumblr.com/bucciniexe)
